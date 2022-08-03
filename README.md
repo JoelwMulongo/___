@@ -1,1 +1,1 @@
-# jscrowd a JavaScript simulation 
+A JavaScript simulation 
